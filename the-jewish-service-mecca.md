@@ -1,12 +1,5 @@
 ---
-layout: default
 title: The Jewish Service Mecca
-tags: 
-  - volunteering
-  - community service
-created: 1301321693
-changed: 1317833206
-published: true
 subhead: New Orleans and the Jewish community
 issue: 13
 author: 
@@ -14,6 +7,9 @@ author:
   - Moshe Kornfeld
 section: Around the World
 article_image: "http://presentense.org/files/5514688957_ba255cec03.jpg"
+tags:
+  - volunteering
+  - community service
 ---
 
 Perhaps we can think of New Orleans as a modern-day pilgrimage site. Since Hurricane Katrina, the city has become a primary service-learning destination for American Jews. Michael Weil, executive director of the Jewish Federation of Greater New Orleans, frequently reminds visitors that New Orleans, according to the New York <em>Jewish Week</em>, is now &ldquo;The New Mecca of Tikkun Olam.&rdquo;
