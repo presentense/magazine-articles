@@ -1,0 +1,43 @@
+prose:
+	rooturl: "articles"
+	media: "images"
+	metadata:
+		articles:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+			- name: "subhead"
+				field:
+					element: "text"
+					label: "Subhead"
+			- name: "issue"
+				field:
+					element: "number"
+					label: "Issue Number"
+			- name: "author"
+				field:
+					element: "multiselect"
+					label: "Author"
+					placeholder: "Choose or add author"
+					options:
+						- name: "Ariel Beery"
+						  value: "Ariel Beery"
+					alterable: true
+			- name: "section"
+				field:
+					element: "select"
+					label: "Section"
+					options: "sections.jsonp"
+			- name: "article_image"
+				field:
+					element: "text"
+					label: "Article Image"
+			- name: "tags"
+				field:
+					element: "multiselect"
+					label: "Tags"
+					options:
+						- name: "Innovation"
+						  value: "innovation"
+					alterable: true
