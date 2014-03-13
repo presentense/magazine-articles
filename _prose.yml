@@ -1,12 +1,12 @@
 prose:
-	rooturl: "articles"
-	media: "images"
-	metadata:
-		articles:
-			- name: "title"
-			  field:
-			    element: "text"
-			    label: "Title"
+  rooturl: "articles"
+  media: "images"
+  metadata:
+    articles:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
             - name: "subhead"
               field:
                 element: "text"
