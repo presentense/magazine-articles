@@ -1,0 +1,36 @@
+---
+layout: default
+title: Solving The Water Crisis
+tags: [Ideas and Innovation,environment,ptmag,pt12]
+created: 1288786930
+changed: 1289474237
+---
+<p><a title="drip-irrigation by PresenTense Group, on Flickr" href="http://www.flickr.com/photos/presentensegroup/5119350988/"><img width="375" height="500" alt="drip-irrigation" src="http://farm2.static.flickr.com/1317/5119350988_eab480cc76.jpg" /></a></p>
+<p>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title></title>
+<meta name="Generator" content="Cocoa HTML Writer">
+<meta name="CocoaVersion" content="1038.32"> <style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 9.5px Times}
+</style>     </meta>
+</meta>
+</meta>
+</meta>
+</p>
+<p>Israel is quickly establishing a reputation&nbsp;as a global leader in technologies that&nbsp;promote environmental sustainability. But&nbsp;this is not a new realm of technological&nbsp;development in Israel. Although many Israeli&nbsp;technologies are only now gaining global,&nbsp;mainstream attention, Israel has been involved&nbsp;in innovative practices in the realm of natural&nbsp;resource management for decades.</p>
+<p>As leaders around the world are faced&nbsp;with growing populations and a diminishing&nbsp;supply of natural resources, there has been a&nbsp;push both in private and public entities to&nbsp;find more sustainable means of using natural&nbsp;resources. In the past 10 years, the renewable&nbsp;energy industry has become a mainstream area&nbsp;of investment. As the shift away from a fossil&nbsp;fuel-based economy has strengthened, many&nbsp;private organizations have begun to capitalize&nbsp;on technologies such as wind and solar power.</p>
+<p>But today, leaders are beginning to face&nbsp;a different problem. A basic resource that&nbsp;many had not previously perceived as in short&nbsp;supply is becoming of global importance:&nbsp;water. Limited water is a problem that not&nbsp;only affects daily water use, but a lack of water&nbsp;for crop irrigation in the face of a growing&nbsp;population can also undermine food security.</p>
+<p>The tie between food security and water&nbsp;availability is not a new concept to arid nations,&nbsp;but what is notable is how even countries that&nbsp;have ample water supply have begun to allocate&nbsp;resources for the development of techniques&nbsp;and strategies to conserve water. Changes in&nbsp;the global climate mean changes in rainfall&nbsp;and groundwater availability, even in these&nbsp;water-abundant nations. The recognition that&nbsp;water shortage could become a future issue in&nbsp;all regions has led to the emergence of a new&nbsp;market for water-management technologies.</p>
+<p>Those who enter this market are&nbsp;realizing that it is not one with inexperienced&nbsp;entrepreneurs or largely experimental&nbsp;technologies. Israeli innovators dominate the&nbsp;space, and have been developing a wide array&nbsp;of water-management technologies since the&nbsp;1950s. Their innovations include irrigation,&nbsp;desalinization, and grey-water recycling&nbsp;technologies. As a result, both leaders and&nbsp;investors around the globe have begun looking&nbsp;to Israel for opportunities and solutions.</p>
+<p>The issue of water supply in Israel is of&nbsp;national importance. For every good year of&nbsp;rain, Israel faces seven years of drought on&nbsp;average. With limited resources and land,&nbsp;Israel&rsquo;s water supply has been in danger of&nbsp;deteriorating in quality for years as the country&nbsp;has faced expanding urban areas, an increasing&nbsp;population, and industrial growth.</p>
+<p>One of the earliest water-management&nbsp;technologies developed by Israel was drip&nbsp;irrigation. The technology was developed&nbsp;by Simcha Blass, a water engineer for Israel&nbsp;predating its establishment as a state, and&nbsp;a pivotal innovator in the realm of watermanagement&nbsp;technologies beginning in&nbsp;the 1950s. Drip irrigation is a method that&nbsp;provides water to crops by releasing small&nbsp;droplets at regular intervals directly to plants.&nbsp;According to Dr. Elaine Solowey, director of&nbsp;the Center for Sustainable Agriculture at the&nbsp;Arava Institute, drip irrigation reduces water&nbsp;input from ditch irrigation at least 70 percent&nbsp;and reduces soil salinization at least 85 percent.</p>
+<p>&ldquo;Drip irrigation is a vital technology in&nbsp;Israel and around the globe because of the&nbsp;global shortage of fresh water for agriculture&nbsp;and drinking. Drip irrigation allows water&nbsp;to &lsquo;go further&rsquo; in growing vital crops because&nbsp;so little is wasted.&rdquo; says Solowey. &ldquo;It also&nbsp;reduces salinization since farmers have to use&nbsp;brackish and saline water in many places,&nbsp;and drip irrigation allows less water to be&nbsp;applied, meaning less salts deposited.&rdquo; Less&nbsp;salt transmitted to soil preserves soil quality&nbsp;ensuring the soil&rsquo;s future fertility.</p>
+<p>Since Blass&rsquo; conception of modern drip&nbsp;irrigation, various Israeli and foreign irrigation&nbsp;companies have further developed the&nbsp;technology, creating systems that operate on&nbsp;the same basic principles Blass devised but look&nbsp;very different, relying on a variety of different&nbsp;drippers, misters, water spikes, and pipettes&nbsp;depending on the crops being irrigated. This&nbsp;infrastructure is also now combined with&nbsp;water computers and clocks, making efficient&nbsp;crop irrigation precise and even automatic.</p>
+<p>&ldquo;Blass invented this system to allow&nbsp;people to farm dry and arid areas and because&nbsp;Israel and the Middle East are chronically&nbsp;short of water for farming and drinking. He&nbsp;did not regard it only as a way to settle the&nbsp;Negev, but also realized that the system could&nbsp;be used globally and useful in all arid areas,&rdquo;&nbsp;says Solowey.</p>
+<p>Drip irrigation has indeed become a&nbsp;universal tool for efficient water input in&nbsp;agriculture, spreading from Israel to both&nbsp;developed and developing nations. &ldquo;The&nbsp;main spreading was done by the irrigation&nbsp;companies,&rdquo; said Eli Gertler, an Israeli&nbsp;engineer who has been working on irrigation&nbsp;projects in Africa since the 1980s. &ldquo;Over the&nbsp;years they have done hundreds of seminars&nbsp;and officials. In addition, government&nbsp;through seminars and demonstration farms in&nbsp;many undeveloped countries.&rdquo;</p>
+<p>Just as drip irrigation has spread&nbsp;throughout the world, there is a wide array&nbsp;of other environmentally sustainable Israeli&nbsp;technologies that are beginning to attract&nbsp;foreign investment and adoption. But as&nbsp;these technologies gain more mainstream&nbsp;attention, this does not necessarily signal that&nbsp;the concept or the technology is new. Israel&nbsp;has been leading the world in environmentally&nbsp;sustainable technologies far before there was a&nbsp;global market for these technologies.</p>
+<p>And as foreign innovators increasingly&nbsp;enter this space, they will find they will have&nbsp;to contend with a powerful set of Israeli&nbsp;innovators and technologies.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

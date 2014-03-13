@@ -1,0 +1,11 @@
+---
+layout: default
+title: Israel Cars, Unplugged: The Electric Revolution Starts Here
+tags: [Features,technology,Travel,israel,magazine,PT5]
+created: 1257273098
+changed: 1257281815
+---
+<p>When I crowd onto the bus in&nbsp;<st1:city w:st="on"><st1:place w:st="on">Jerusalem</st1:place></st1:city>, I wish that I had enough money to afford the gas to drive my own car instead. Hope is on the way&mdash;thanks to an Israeli entrepreneur, Shai Agassi, and his Project Better Place (PBP), I could soon realize my driving fantasy if the electric car makes its scheduled debut on the Israeli market in 2011.</p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; ">The electric car is supposed to work much like a cell phone, by plugging the battery-operated car into a charger. PBP will provide the infrastructure by setting up a network of charging spots and battery exchange stations that will allow Israeli drivers to drive all over the country. If they need to drive longer than the charge on their home battery allows, they can simply exchange their used battery for a fresh one.</p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; ">Since these new cars can travel up to 200km (120 miles) in one charge,&nbsp;<st1:country-region w:st="on"><st1:place w:st="on">Israel</st1:place></st1:country-region>, as a small country, offers an ideal testing ground for the new technology. While most Americans don&rsquo;t drive more than 120 miles in one day, one difficulty in transferring this project to the<st1:country-region w:st="on"><st1:place w:st="on">United States</st1:place></st1:country-region>&nbsp;on a grand scale would be the network of charge spots and battery-exchange stations needed around such a large country.</p>
+<p>Electric cars could also be more environmentally-friendly and put&nbsp;<st1:country-region w:st="on"><st1:place w:st="on">Israel</st1:place></st1:country-region>on the map as the first country to wean itself off gas-guzzling cars completely. The jury&rsquo;s still out for&nbsp;<st1:country-region w:st="on"><st1:place w:st="on">Israel</st1:place></st1:country-region>&rsquo;s citizens, who don&rsquo;t know that much about the technology yet. But as another crowded bus ride awaits, I&rsquo;m hoping this place becomes better, soon.&nbsp;</p>

@@ -1,0 +1,39 @@
+---
+layout: default
+title: Are Simple Actions Enough?
+tags: [Features,environment,ptmag,pt12]
+created: 1289296822
+changed: 1289473629
+---
+<p><a title="Paradigm Shift - Anzovin - Oil spill by PresenTense Group, on Flickr" href="http://www.flickr.com/photos/presentensegroup/5118760999/"><img width="401" height="500" alt="Paradigm Shift - Anzovin - Oil spill" src="http://farm2.static.flickr.com/1389/5118760999_27ce1cbb5c.jpg" /></a></p>
+<p>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title></title>
+<meta name="Generator" content="Cocoa HTML Writer">
+<meta name="CocoaVersion" content="1038.32"> <style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 9.5px Times}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 30.0px Times}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Times}
+span.s1 {color: #f83a33}
+span.s2 {font: 52.0px Times}
+</style> Use Compact Fluorescent Lightbulbs&nbsp;    (CFLs). Buy a hybrid car. Add&nbsp;insulation to your house. You&rsquo;ve heard&nbsp;these recommendations and a dozen&nbsp;more over the last few years, as environmental&nbsp;concerns have become prominent in our&nbsp;society. Maybe you&rsquo;ve heard that these actions&nbsp;will save you money (&ldquo;two kinds of green!&rdquo;).&nbsp;But are these important actions enough?    </meta>
+</meta>
+</meta>
+</meta>
+</p>
+<p>Over the last few generations, we&rsquo;ve&nbsp;had some serious environmental challenges,&nbsp;and a broad environmental movement has&nbsp;risen up to deal with them. In the United&nbsp;States, there has been good progress in some&nbsp;areas, such as reducing pollution of air and&nbsp;water, informing the public about specific&nbsp;environmental threats, and cleaning up&nbsp;environmental messes. Yet despite this, today&nbsp;there are more complicated, more global, and&nbsp;more dangerous environmental challenges&nbsp;than ever. Our society seems increasingly&nbsp;confused about how we can address them. We&nbsp;need a new paradigm to help us build a more&nbsp;sustainable future.</p>
+<p>The current mode of environmental&nbsp;protection includes a focus on specific&nbsp;problems, action at levels both personal and&nbsp;political, and campaigns to identify and solve&nbsp;specific problems. CFCs are destroying the&nbsp;ozone layer. Individuals: stop using spray&nbsp;cans. Politicians: create laws and international&nbsp;agreements to prevent CFC use. Declare&nbsp;victory. But addressing specific environmental&nbsp;challenges at this level is not sufficient.&nbsp;Problems are rarely solved completely. Politics&nbsp;and greed prevent scientific clarity. Worst,&nbsp;behind the original problem comes another&nbsp;bigger one, ruining the moment of celebration.</p>
+<p>Our problems are not only tactical but&nbsp;also philosophical, stemming from confusion&nbsp;about what the environment is: a set of&nbsp;interconnected resources&mdash;clean air, clean&nbsp;water, food, animals, trees&mdash;on which we&nbsp;depend in order to live. It is not a series of&nbsp;individual problems which can be solved by&nbsp;concrete campaigns. Instead of addressing&nbsp;problems one by one, we need to recognize a&nbsp;fundamental truth: Protecting our resources is&nbsp;logical and healthy for human beings to do.</p>
+<p>In Jewish thought, the environment is&nbsp;recognized as a set of resources to be managed&nbsp;over time. It is acknowledged that we must&nbsp;take resources from the land&mdash;such as food,&nbsp;energy, sanitation, and clothing&mdash;to meet&nbsp;our basic needs. Yet people were placed in&nbsp;the Garden of Eden both &ldquo;to work it and&nbsp;to protect it&rdquo; (Genesis 2:15). We treat our&nbsp;resources with care and great appreciation,&nbsp;as the Talmud records: &ldquo;Rav Judah said in&nbsp;the name of Rav: &lsquo;We give thanks to You,&nbsp;Hashem, our G-d for every single drop which&nbsp;you have caused to fall upon us.&rdquo; (Babylonian&nbsp;Talmud, Tractate Ta&rsquo;anit, p. 6b). In another&nbsp;example, the mitzvah to cut fruit trees, drawn&nbsp;from a Torah source (Deuteronomy 20:19-20),&nbsp;is understood as a comprehensive warning not&nbsp;to needlessly destroy.</p>
+<p>Jewish teachings also recognize that&nbsp;the advance of technology presents ongoing&nbsp;environmental challenges which must be&nbsp;addressed by the application of old rules. For&nbsp;example, Maimonides (1135-1204) updated&nbsp;earlier pollution rules from the Talmud to&nbsp;apply to contemporary technology in his&nbsp;Mishneh Torah.</p>
+<p>Environmental problems spring from&nbsp;a cultural lack which is essentially spiritual:&nbsp;lack of the sacred, lack of long-term and&nbsp;communal thinking, lack of concern for&nbsp;others or even our own health. Jewish thought&nbsp;emphasizes appreciating and managing our&nbsp;resources wisely, making decisions with an&nbsp;eye toward long-term needs, and correcting&nbsp;mistakes when they are discovered. The focus&nbsp;includes an ongoing responsibility for the&nbsp;environment, for our health, and for other&nbsp;people. These are paradigm shifts that could&nbsp;make a real difference in our environmental&nbsp;protection.</p>
+<p>If our society began to internalize these&nbsp;values, protecting the environment would&nbsp;transcend just changing a light bulb or buying&nbsp;a different kind of car. It would be about our&nbsp;love for our children and our neighbors, and&nbsp;our gratitude for all that we have. These values&nbsp;would not only help the environment. They&nbsp;could also help us strengthen our families&nbsp;and communities, become less dependent on&nbsp;wealth and consumerism, and focus on what&nbsp;really matters.</p>
+<p>Since the 1990s, more than a dozen&nbsp;Jewish-environmental organizations have&nbsp;begun operating at both the local and&nbsp;national levels in Israel, the United States, and&nbsp;around the world. Organizations such as the&nbsp;Coalition on the Environment and Jewish Life&nbsp;(COEJL), Hazon, the Teva Learning Center,&nbsp;and many more have engaged Jews and&nbsp;Jewish institutions in environmental action,&nbsp;awareness, and advocacy. Yet much more&nbsp;needs to be done to engage the entire Jewish&nbsp;community, and to use Jewish wisdom to alter&nbsp;the unsustainable course our society has taken.</p>
+<p>We can build a society in which we protect&nbsp;our resources, continually, for our own health&nbsp;and for the well-being of our children. Thus, I&nbsp;offer a call to action to all Jews to pursue deep,&nbsp;authentic Jewish learning and to take action to&nbsp;address the serious environmental threats we&nbsp;face.</p>
+<p>Familiarize yourself with websites,&nbsp;publications and programs that provide high-quality&nbsp;scientific environmental information,&nbsp;and make it a habit to consult them. Make&nbsp;environmentally sensitive consumer choices,&nbsp;such as buying 100 percent recycled paper,&nbsp;non-toxic cleaning products, and CFLs.</p>
+<p>But also, learn what our tradition can&nbsp;teach us about sustaining our resources for&nbsp;future generations. Join and support a Jewish environmental&nbsp;organization. Learn the Jewish&nbsp;perspective on protecting the environment.&nbsp;Read Jewish-environmental teachings and&nbsp;promote programming and action in your&nbsp;community. Share your ideas with others.&nbsp;Together, we can move the Jewish community&nbsp;into our role as a &ldquo;light to the nations&rdquo; in&nbsp;protecting our world.</p>
+<p>An ancient Jewish text teaches: One who&nbsp;learns in order to teach, develops the ability&nbsp;to learn and to teach. But one who learns&nbsp;in order to act, develops the ability to learn,&nbsp;to teach, to guard and to act. (Ethics of Our&nbsp;Fathers, 4:6).</p>
+<p>Let&rsquo;s join together as Jews, to learn, teach,&nbsp;and act to live sustainably.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

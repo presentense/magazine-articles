@@ -1,0 +1,25 @@
+---
+layout: default
+title: Exodus to Empowerment
+tags: [Society,israel,heroes,PT11]
+created: 1277968711
+changed: 1289475621
+---
+<p><img width="500" height="375" vspace="5" hspace="5" align="middle" alt="" src="/files/PresenTense%20Exodus%20Image.jpg" /></p>
+<p>&nbsp;</p>
+<p><strong>Name:</strong>&nbsp;Avraham Nega Admasu</p>
+<p><strong>Home:&nbsp;</strong>Rishon L&rsquo;Tzion, Israel</p>
+<p><strong>Profession:&nbsp;</strong>Material engineer, father,&nbsp;community leader</p>
+<p><strong>He&rsquo;s a hero because:&nbsp;</strong>He&rsquo;s empowering Ethiopian youth</p>
+<p>A&nbsp;38-year-old father of three, material&nbsp;engineer, and community leader, Avraham&nbsp;Nega Admasu empowers Ethiopian&nbsp;youth in Israel to connect to their culture&nbsp;and to integrate into the broader Israeli community.&nbsp;Admasu is part of a <em>gar&rsquo;in</em>&mdash;a Hebrew&nbsp;word that means &ldquo;seed,&rdquo; a collaborative community&nbsp;working together for the betterment&nbsp;of society, under the umbrella of the Friends&nbsp;by Nature. The nonprofit organization works&nbsp;to empower and educate the Ethiopian community&nbsp;in Israel. Committed to planting the&nbsp;seeds for a successful and vibrant Ethiopian&nbsp;community in the town of Rishon L&rsquo;Tzion,&nbsp;the <em>gar&rsquo;in</em> is one of 10 such communities dedicated&nbsp;to strengthening the Ethiopian community&nbsp;from within.</p>
+<div>
+<p>Admasu&rsquo;s path as a community leader is&nbsp;informed by his life story. He grew up among&nbsp;11 siblings in Kabazit, a small village in northern&nbsp;Ethiopia. During his childhood, he tended&nbsp;livestock with his father and helped the women&nbsp;bring water from the nearby well. In 1984,&nbsp;his family sold their livestock and bribed the&nbsp;necessary local officials, enabling 52 family&nbsp;members to leave the country secretly and&nbsp;make the 12-day trip to the Sudanese border&nbsp;by foot.</p>
+<p>&ldquo;A path led us to a steep mountain,&rdquo;&nbsp;Admasu recalls, &ldquo;which we struggled to descend.&nbsp;When we reached a pool at the bottom&nbsp;of the mountain, we regrouped and counted&nbsp;everyone, only to discover that five-year-old&nbsp;Manale, my little niece, was missing. The accompanying&nbsp;armed guide did not allow us to&nbsp;turn back. Nevertheless, several adults stayed&nbsp;behind to look for the girl, but no trace was&nbsp;found and the family was forced to continue,&nbsp;now 50 people, soon shrinking to 49 when another&nbsp;family member disappeared.&rdquo;</p>
+<p>Many days into the journey, the group&nbsp;reached an area without water. The family&nbsp;found itself in the scorching hot sun with little&nbsp;shade; children and the elderly were starting&nbsp;to collapse from dehydration. In one of many&nbsp;miracles, Admasu&rsquo;s older brother Efraim accidentally&nbsp;discovered a muddy spring when&nbsp;he saw a group of bees hovering above. Admasu&nbsp;was sent out to collect the water, and the&nbsp;group survived.&nbsp;</p>
+<p>Braving harsh conditions, bandits, and&nbsp;a shortage of food and water, they arrived at&nbsp;the border of Sudan, where the Red Cross&nbsp;welcomed them on the other side. The family&nbsp;spent close to a year in various squalid refugee&nbsp;camps in Sudan before they reached Gadarif,&nbsp;where a large concentration of Jews had settled.&nbsp;There, they acquired the necessary documentation,&nbsp;which enabled them to travel to&nbsp;the capital city of Khartoum. The family was&nbsp;then flown to Israel, where, with tears of joy,&nbsp;12-year-old Admasu, sick and weakened from&nbsp;malaria, stepped off the plane and kissed the&nbsp;ground of Israel.</p>
+<p>Admasu went on to graduate high school&nbsp;and joined the IDF as a paratrooper. In 1991,&nbsp;as a young soldier, he was sent back to Ethiopia as part of Operation Solomon, to assist in&nbsp;airlifting 15,000 Ethiopian Jews to Israel and&nbsp;reuniting thousands of families, including his&nbsp;own.</p>
+<p>Today he dedicates his time outside of&nbsp;his occupation as an engineer to working with&nbsp;Ethiopian youth in his neighborhood. Weekly&nbsp;group activities, trips, and leadership building&nbsp;are just some of the many empowerment tools&nbsp;that serve to deepen the sense of identity and&nbsp;pride of the youth.</p>
+<p>In his role as coordinator of youth activities,&nbsp;Admasu feels that he is closing a circle.&nbsp;He anticipates that he can enable young Ethiopian-Israelis to find their inner strengths, as&nbsp;he did through his life experiences. His past&nbsp;helped shaped his present, and he hopes to&nbsp;use both to inspire the future of the Ethiopian&nbsp;youth in Israel. PT</p>
+<p><em>Dana Talmi is a Jewish educator&nbsp;with a passion for service learning.&nbsp;She is the director of Yahel&nbsp;- Israel Service Learning, an educational&nbsp;organization that runs service learning&nbsp;and social action programs in Israel. She&nbsp;is happy to be living in Zichron Ya&rsquo;akov.</em></p>
+<p><img width="500" height="148" alt="" src="/files/yahelsidebar.jpg" /></p>
+</div>

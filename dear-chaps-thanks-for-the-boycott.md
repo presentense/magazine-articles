@@ -1,0 +1,17 @@
+---
+layout: default
+title: Dear Chaps, Thanks for the Boycott
+tags: [Here and Now]
+created: 1255008354
+changed: 1255008354
+---
+<p><span class="Apple-style-span" style="font-size: 12px; line-height: 16px; ">Dear British Academe,</span></p>
+<p><span class="Apple-style-span" style="font-size: 12px; line-height: 16px; ">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; ">I am writing to commend you on your brilliant proposal to boycott Israeli universities. I have often wondered how British Academia has received such high acclaim; your boycott reveals that apparently the way to achieve British academic enlightenment is to completely close oneself off from any person or opinion that does not adhere strictly to one&rsquo;s own beliefs.</p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; ">Alas, I have learned this invaluable lesson too late. I have just wasted two years of my life in a Master&rsquo;s degree program that pushed me to look beyond my set of understandings and beliefs, and to actually listen to what others have to say. Silly me, I came out of this so called &ldquo;academic&rdquo; program believing that this was the beauty of academia&mdash;that allowing one to study all sides of an issue and to make up one&rsquo;s own mind is what elevates the academy above the common fray.</p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; ">Thank goodness you have not wasted your time on this ridiculous notion of listening to others. Really, what is the point of at least attempting to determine which Israeli academics purportedly &ldquo;support the occupation&rdquo; and which work tirelessly to try to build reconciliation, coexistence, and peace? Your method of discarding ALL academics at Israeli institutions makes a far greater contribution to bringing peace to the Middle East. Who cares that the Israeli academies you wish to boycott may be composed of some of the most dovish members of Israeli society? Who cares that Palestinian students also study at the universities you wish to disregard? Honestly, how dare these institutions even call themselves &ldquo;academic&rdquo;? Allowing opposing viewpoints to co-exist&mdash;atrocious!</p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; ">I also have to commend you on your ability to hold fast to the moral high ground amidst all of the factors fighting against you. With the Arabic word for your forbearers in the Middle East, &ldquo;Orientalists,&rdquo; imbued with derogatory connotation, you still stand tall. With the arbitrary borders drawn by the British causing violent conflicts in the region to this day, you still stand tall. Oh yes, and with Britain&rsquo;s behind-the-back promises of statehood to both Jews and Arabs contributing greatly to the on-going Arab-Israeli conflict you are still able to cling to your feelings of superiority.</p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; ">So thank you, British Academe, for showing us the way to enlightenment. Thank you for teaching us that hypocrisy and close-mindedness are the true paths to peace in the Middle East.</p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; ">Yours,</p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; ">Leora</p>
+</span></p>

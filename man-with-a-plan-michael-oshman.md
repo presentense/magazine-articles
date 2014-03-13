@@ -1,0 +1,16 @@
+---
+layout: default
+title: Man with a Plan: Michael Oshman
+tags: [Here and Now]
+created: 1255417899
+changed: 1255438347
+---
+<p class="rteleft">Age: 36</p>
+<p class="rteleft">Profession: Green Visionary</p>
+<p class="rteleft">Watch him because: He's tikkuning the olam one restaurant at a time.</p>
+<p class="rteleft">Today, there are green restaurants in over thirty U.S. states and Canada, but in the early years of environmental awareness, it was difficult to convince restaurant owners that environmentalism could also make financial sense. &ldquo;Initially, there was a polarization between the business world and the environmentalist world,&rdquo; says Oshman. &ldquo;We were perceiving each other as having opposing interests. Back then, having a green business was a novel concept, but thankfully, it's part of our culture now.&rdquo;</p>
+<p class="rteleft">As founder and director of the Green Restaurant Association (www.dinegreen.com), Michael Oshman is at the vanguard of this green dining movement. Combining his business skills with a deep desire to change our world and environment, which stems from the Jewish value of tikkun olam, or repairing the world, Oshman established the GRA in 1990, at age 19. At the time, scientists were first becoming aware of ozone depletion and that human actions had caused this environmental problem. Oshman realized that he had to do something.</p>
+<p class="rteleft">By founding the Green Restaurant Association, a national non-profit organization, Oshman transformed the restaurant industry by making it more sustainable, efficient and environmentally friendly. With consulting services that include research, environmental consulting, education, PR and marketing, and community organizing and consumer activism, the GRA sets the standards for the industry; restaurants that meet those standards are awarded a green certification. The GRA has also created the world's largest database of environmental solutions for the restaurant industry to aid dining establishments in rethinking their businesses from a greener perspective.</p>
+<p class="rteleft">Seventeen years later, Oshman acknowledges that inspiration also comes from the motivational force of another Jewish value &mdash;teshuvah, self-improvement. &ldquo;Sustainability is an elusive word,&rdquo; notes Oshman. &ldquo;There's no such thing as being perfect, only the process of trying to perfect.&rdquo; This process has allowed Oshman, and the Green Restaurant Association, to continuously strive for new ways to help restaurants green their business, from packaging and lighting to food distribution.</p>
+<p class="rteleft">With the growing awareness of environmental issues comes an elevated profile for the Green Restaurant Association. Oshman has appeared on national television and radio news programs and has given lectures about the organization and its goals to groups across the country. &ldquo;Our goal is to help restaurants make changes in the right way,&rdquo; says Oshman. &ldquo;We're helping them do it without making the mistakes that seventeen years of history have taught us. We have an unprecedented ability to make changes in our day-to-day lives.&rdquo;</p>
+<div class="rteleft">&nbsp;</div>

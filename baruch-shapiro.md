@@ -1,0 +1,25 @@
+---
+layout: default
+title: Baruch Shapiro
+tags: [Community]
+created: 1293622860
+changed: 1293623006
+---
+<p>Long strands of gray tinged brown hair stream out from Baruch Shapiro&rsquo;s baseball cap. His voice matches his gentle but firm features; blue eyes sparkle clearly and gaze with set determination. He squats to pull up weeds from between carefully planted rows of herbs, then stands to explain the medicinal uses of each of his plants: this one helps to heal the skin, while the other helps cleanse the blood.</p>
+<!--StartFragment-->
+<p>Shapiro is a medical herbalist, who lives in Emek Ha&rsquo;elah, the Elah valley south of Jerusalem, in Israel. There he grows, mixes, and creates many of the herbal remedies he prescribes to his patients. On his homestead, where he lives with his wife and five children, he has built the Sage Farm and the Rosemary Branch Clinic. His farm to medicine operation is part of his larger philosophy about human health.</p>
+<p>&ldquo;Whatever one does for the environment actually immediately creates healing in one&rsquo;s own spirit and vice versa,&rdquo; Shapiro explains.</p>
+<p>He deeply believes that human health is inseparable from the health of that human&rsquo;s environment and, therefore, works to protect the natural world surrounding his Israeli homestead. He is also active in a local environmental group, Shemesh Yehuda Forum, which works to stop oil drilling in the area and raise awareness about local environmental concerns.</p>
+<p>&ldquo;If we live in a home and we are using pesticides in our lawn or garden, then obviously when we go outside we will be exposed to that,&rdquo; he says. Medicinal herbs, he claims, grow wild in fields and lawns all over the world. If one destroys those naturally existing plants in order to plant one&rsquo;s choice crops, that person may be killing powerful medicinal herbs.</p>
+<p>He explains that most people see natural plant life as &ldquo;a beautiful canvas,&rdquo; in front of which they conduct their lives. &ldquo;But when we actually see that they are at home and we are passing through their home, then we start to become humble and we start to work with the plant world rather than try to dominate it and create a garden that is separate from nature&rsquo;s bounty.&rdquo;</p>
+<p>Furthermore, he says, it is unproductive to think of one&rsquo;s external natural world, &ldquo;the environment,&rdquo; as radically separate from one&rsquo;s internal world, &ldquo;the body.&rdquo; These two reams are in fact one, he says.</p>
+<p>&ldquo;When we take our own personal situation and realize that what we can do to create a healthy environment in the supposed outside sphere is going to be coming right back at us &ndash; whether it&rsquo;s the air, soil, or the water &ndash; and honor that inner connection, then we will have a clearer position about what it means to be healthy,&rdquo; Shapiro says. &ldquo;We will see those connections coming up wherever we are.&rdquo;</p>
+<p>He says that growing medicinal plants is particularly powerful for him. He invests time, energy, nourishment and care into plants and they grow, and they in turn bring healing to himself and his patients.</p>
+<p>&ldquo;It&rsquo;s a personal relationship,&rdquo; he says.&nbsp;</p>
+<p>For Shapiro, a religious Jew, this relationship is strengthened by his connection to Judaism.</p>
+<p>&ldquo;Ecology is a fundamental value of the Torah,&rdquo; he says. &ldquo;The injunction given to Adam and Chava in the Garden of Eden to work with and protect the garden was the first directive given to humanity about what our way of being in the world should be.&rdquo;</p>
+<p>Shapiro grew up in California and later in Nevada, where he spent most of his days roaming freely in the wild. His parents were followers of Rabbi Shlomo Carlebach and Reb Zalman Shachter Shalomi and gave Baruch freedom to explore spirituality as well within the Renewal movement. He recounts many occasions of his family staying up till the middle of the night, singing and celebrating Judaism as a &ldquo;joyous practice.&rdquo;</p>
+<p>In Nevada, Shapiro&rsquo;s family grew close to Rolling Thunder, a Native American, who taught them to live a simple land-based life. Shapiro grew friendly with Rolling Thunder&rsquo;s children and grew up with them, hearing their legends and stories, and exploring with them wild animals and plants.</p>
+<p>&ldquo;My teachers told me not to teach for at least seven years after being certified as a clinical herbalist, and that was after I had already undergone a five-year training in herbal medicine,&rdquo; Shapiro says.&nbsp;&ldquo;We need to be humble and work very hard to understand and be informed by the Earth in a way that is relevant to anyone other than ourselves.&rdquo;</p>
+<p>&nbsp;</p>
+<!--EndFragment-->
