@@ -24,7 +24,7 @@ prose:
           - name: "Ariel Beery"
             value: "Ariel Beery"
         alterable: true
-    - name: section"
+    - name: "section"
       field:
         element: "select"
         label: "Section"
